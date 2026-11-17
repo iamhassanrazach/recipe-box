@@ -1,0 +1,7 @@
+[
+  { "id": 1, "recipeSlug": "pasta-carbonara", "authorName": "Lina", "rating": 5, "comment": "Super easy, I make it every week.", "createdAt": "2026-11-02" },
+  { "id": 2, "recipeSlug": "pasta-carbonara", "authorName": "Tom", "rating": 4, "comment": "Good, but watch the heat or the eggs scramble.", "createdAt": "2026-11-05" },
+  { "id": 3, "recipeSlug": "chickpea-curry", "authorName": "Sara", "rating": 5, "comment": "Cheap and lasts for three days.", "createdAt": "2026-11-03" },
+  { "id": 4, "recipeSlug": "shakshuka", "authorName": "Yanis", "rating": 4, "comment": "Great for a Sunday brunch.", "createdAt": "2026-11-08" },
+  { "id": 5, "recipeSlug": "banana-pancakes", "authorName": "Emma", "rating": 3, "comment": "Nice, a bit sticky the first time.", "createdAt": "2026-11-10" }
+]

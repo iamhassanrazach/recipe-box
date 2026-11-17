@@ -1,0 +1,89 @@
+[
+  {
+    "slug": "pasta-carbonara",
+    "title": "Pasta Carbonara",
+    "description": "Creamy pasta with eggs, cheese and crispy bacon, ready in 20 minutes.",
+    "category": "Pasta",
+    "prepMinutes": 20,
+    "servings": 2,
+    "ingredients": ["200 g spaghetti", "100 g bacon", "2 eggs", "50 g grated parmesan", "Black pepper"],
+    "steps": [
+      "Cook the spaghetti in salted boiling water.",
+      "Fry the bacon until crispy.",
+      "Mix the eggs and parmesan in a bowl.",
+      "Drain the pasta, add the bacon, then stir in the egg mix off the heat.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "slug": "chickpea-curry",
+    "title": "Chickpea Curry",
+    "description": "A cheap and filling vegetarian curry with coconut milk.",
+    "category": "Vegetarian",
+    "prepMinutes": 30,
+    "servings": 4,
+    "ingredients": ["2 cans of chickpeas", "1 can of coconut milk", "1 onion", "2 garlic cloves", "2 tbsp curry powder", "Rice"],
+    "steps": [
+      "Fry the chopped onion and garlic.",
+      "Add the curry powder and cook for one minute.",
+      "Add the chickpeas and coconut milk, then simmer for 15 minutes.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "slug": "shakshuka",
+    "title": "Shakshuka",
+    "description": "Eggs poached in a spicy tomato and pepper sauce.",
+    "category": "Breakfast",
+    "prepMinutes": 25,
+    "servings": 2,
+    "ingredients": ["4 eggs", "1 can of chopped tomatoes", "1 red pepper", "1 onion", "1 tsp paprika", "Bread"],
+    "steps": [
+      "Fry the onion and sliced pepper until soft.",
+      "Add the tomatoes and paprika, then simmer for 10 minutes.",
+      "Make four holes in the sauce and crack an egg into each.",
+      "Cover and cook until the whites are set. Serve with bread."
+    ]
+  },
+  {
+    "slug": "chicken-wraps",
+    "title": "Chicken Wraps",
+    "description": "Quick wraps with spiced chicken, salad and yogurt sauce.",
+    "category": "Quick meals",
+    "prepMinutes": 15,
+    "servings": 2,
+    "ingredients": ["2 chicken breasts", "4 tortillas", "Lettuce", "1 tomato", "100 g plain yogurt", "1 tsp cumin"],
+    "steps": [
+      "Slice the chicken and fry it with the cumin.",
+      "Chop the lettuce and tomato.",
+      "Fill the tortillas with chicken, salad and yogurt, then roll them."
+    ]
+  },
+  {
+    "slug": "lentil-soup",
+    "title": "Lentil Soup",
+    "description": "A warm soup with red lentils and carrots for cold evenings.",
+    "category": "Vegetarian",
+    "prepMinutes": 35,
+    "servings": 4,
+    "ingredients": ["200 g red lentils", "2 carrots", "1 onion", "1 litre of vegetable stock", "1 tsp cumin"],
+    "steps": [
+      "Fry the chopped onion and carrots.",
+      "Add the lentils, cumin and stock.",
+      "Simmer for 25 minutes, then blend until smooth."
+    ]
+  },
+  {
+    "slug": "banana-pancakes",
+    "title": "Banana Pancakes",
+    "description": "Soft pancakes with only three ingredients.",
+    "category": "Breakfast",
+    "prepMinutes": 10,
+    "servings": 1,
+    "ingredients": ["1 ripe banana", "2 eggs", "2 tbsp flour"],
+    "steps": [
+      "Mash the banana and mix it with the eggs and flour.",
+      "Cook small pancakes in a hot pan, one minute per side."
+    ]
+  }
+]
